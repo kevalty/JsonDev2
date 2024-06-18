@@ -47,7 +47,7 @@ nav {
 
 .hero {
     height: 100vh;
-    background: url('/assets/minimalist_background_JSON.png') no-repeat center center/cover;
+    background: url('assets/minimalist_background_JSON.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
