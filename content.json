@@ -186,11 +186,11 @@
           }
         ]
       },
-      ,{
+      {
         "id": "eva",
         "title": "Evaluación Propuesta",
         "paragraphs": [
-        "En el siguiente gráfico se presenta un histograma con la distribución de los valores que contiene el objeto JSON sin ser cifrado. Como se observa en este gráfico el objeto JSON contiene ciertos valores que se repiten, o contienen una frecuencia mayor.",
+        "En el siguiente gráfico se presenta un histograma con la distribución de los valores que contiene el objeto JSON sin ser cifrado. Como se observa en este gráfico el objeto JSON contiene ciertos valores que se repiten, o contienen una frecuencia mayor."
         ],
         "images": [
           {
