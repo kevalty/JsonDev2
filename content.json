@@ -138,6 +138,10 @@
         ],
         "images": [
           {
+            "src": "assets/img11.jpg",
+            "alt": "Caos Json Generado con IA"
+          },
+          {
             "src": "assets/img5.png",
             "alt": "Resultado 1"
           },
