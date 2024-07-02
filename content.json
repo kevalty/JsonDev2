@@ -166,25 +166,6 @@
             "alt": "Ejemplo JSON cifrado 1"
           }
         ]
-      },
-      {
-        "id": "eva",
-        "title": "Evaluación Propuesta",
-        "paragraphs": [
-          "Para la evaluación del enfoque desarrollado, se utilizaron algunas técnicas estadísticas. Por ejemplo, con un gráfico de correlación se puede examinar la correlación entre el objeto JSON original vs el objeto JSON regenerado (después del proceso de descifrado), como se observa en la siguiente figura. Como se observa en la figura, el proceso de regeneración se realiza fielmente con respecto al origen.",
-          "En el siguiente gráfico de correlación se examina el objeto JSON sin cifrar vs el objeto JSON cifrado con el fin de encontrar algún posible patrón que sugiera una posible relación (debilidad del criptosistema).",
-          "Como se observa en este gráfico de correlación, no se observa algún patrón que pudiera sugerir cierto grado de debilidad del enfoque de cifrado propuesto."
-        ],
-        "images": [
-          {
-            "src": "assets/img11.png",
-            "alt": "Eva img1"
-          },
-          {
-            "src": "assets/img14.png",
-            "alt": "Eva img4"
-          }
-        ]
       }
     ]
   }
